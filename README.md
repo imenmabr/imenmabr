@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Imen Mabrouk 👋
 
-<!--
-**imenmabr/imenmabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Robotics Engineer | Autonomous Systems
 
-Here are some ideas to get you started:
+I am a Robotics Engineer specializing in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ROS 2 and mobile robotics
+- Autonomous navigation
+- SLAM and localization
+- LiDAR–camera sensor fusion
+- Computer vision
+- Deep reinforcement learning
+
+## 🛠 Technologies
+
+- ROS 2 Humble and Jazzy
+- Nav2, SLAM Toolbox and AMCL
+- Gazebo and RViz2
+- URDF, Xacro and TF2
+- Python and C++
+- PyTorch
+- OpenCV and YOLO
+- NVIDIA Jetson
+
+## 🚀 Current Project
+
+### ROS 2 Mobile Robot Framework
+
+Development of a complete differential-drive mobile robot framework including:
+
+- Custom robot model
+- URDF and Xacro
+- Gazebo simulation
+- ros2_control
+- TF2
+- RViz2
+- Launch files
+- Configuration files
+
+## 🗺️ GitHub Roadmap
+
+1. ROS 2 Mobile Robot Framework
+2. Autonomous Navigation Stack
+3. SLAM Benchmark
+4. Localization Laboratory
+5. LiDAR–Camera Sensor Fusion
+6. Robot Perception and Computer Vision
+7. Integrated Autonomous Mobile Robot
+8. Learning-Based Navigation
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/imen-mabrouk
+- Email: imenmabrouk6@gmail.com
