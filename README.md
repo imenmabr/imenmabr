@@ -4,12 +4,7 @@
 
 I build modular robotic systems focused on **ROS 2, autonomous navigation, SLAM, localization, sensor fusion, and robot perception**.
 
-My objective is to design complete and reproducible mobile robot architectures, from robot modeling and simulation to perception, navigation, and intelligent decision-making.
-
 ---
----
-
-
 
 ## Technical Skills
 
